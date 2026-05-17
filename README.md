@@ -22,3 +22,4 @@ CS팀 사용시설파트 · 2026.05 임원 보고용 데모
 ```bash
 pip install -r requirements.txt
 python app.py
+```
